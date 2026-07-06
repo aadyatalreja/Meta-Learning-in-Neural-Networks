@@ -43,10 +43,9 @@ The objective of this project is to investigate whether **Model-Agnostic Meta-Le
 ## Repository Structure
 
 ```
-Knowledge-Distillation-3-Alternating-Functions/
-│
+Meta-Learning-in-Neural-Networks/
+│── documentation / Report.pdf
 ├── MAML_Algorithm_using_GANs.ipynb
-├── Report.pdf
 └── README.md
 ```
 
@@ -93,9 +92,9 @@ The experiments demonstrate that:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aadyatalreja/Knowledge-Distillation-3-Alternating-Functions.git
+git clone https://github.com/aadyatalreja/Meta-Learning-in-Neural-Networks.git
 
-cd Knowledge-Distillation-3-Alternating-Functions
+cd Meta-Learning-in-Neural-Networks
 ```
 
 ### 2. Install dependencies
